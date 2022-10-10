@@ -11,4 +11,3 @@ elif True:
     print(f'Seu nome é {nome}.')
 else:
     print('Não é verdadeiro')
-

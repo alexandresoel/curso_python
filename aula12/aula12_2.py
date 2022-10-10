@@ -1,4 +1,3 @@
-
 usuario = input('Digite o seu nome: ')
 senha = input('Digite a sua senha: ')
 
@@ -9,4 +8,3 @@ if usuario_bd == usuario and senha_bd == senha:
     print('Você está logado no sistema')
 else:
     print('Usuário ou senha inválidos.')
-

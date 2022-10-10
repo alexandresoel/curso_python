@@ -7,7 +7,7 @@ a = 2
 b = 2
 c = 3
 
-print(a == b and b < c )
+print(a == b and b < c)
 
 # (verdadeiro e verdadeiro) = Verdadeiro - todas as comparações precisam ser verdadeiras
 
